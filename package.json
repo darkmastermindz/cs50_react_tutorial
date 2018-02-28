@@ -1,0 +1,10 @@
+{
+  "name": "cs50_react_tutorial",
+  "version": "1.0.0",
+  "description": "Doing the CS50 Tutorial to Sharpen React Skills.",
+  "main": "index.js",
+  "repository": "https://github.com/darkmastermindz/cs50_react_tutorial",
+  "author": "Hansel Wei <darkmastermindz@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
